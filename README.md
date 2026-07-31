@@ -207,7 +207,7 @@ Antes de começar, tenha instalado:
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/leticia-gomes/ProjetoWebinarTecnologiasEmergentes.git
+git clone https://github.com/leticia-gomes/webinar-react-firebase-library.git
 ```
 
 ### 2. Entre na pasta da aplicação
