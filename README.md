@@ -33,24 +33,36 @@ A aplicação foi criada como material prático para demonstrar a integração e
 
 ## 🎓 Contexto acadêmico
 
-Este projeto foi desenvolvido como material de apoio para um webinar da disciplina de **Tecnologias Emergentes**, do curso de Análise e Desenvolvimento de Sistemas.
+Este projeto foi desenvolvido como material de apoio para um webinar da disciplina de **Tecnologias Emergentes**, do curso de **Análise e Desenvolvimento de Sistemas**.
 
-A proposta do webinar foi apresentar, de forma prática, como tecnologias modernas podem ser combinadas para criar uma aplicação web completa sem a necessidade de desenvolver uma API própria para o armazenamento dos dados.
+O principal objetivo do webinar foi apresentar, de forma prática, os conceitos fundamentais de **Git** e **GitHub**, utilizando uma aplicação desenvolvida em **React.js** integrada ao **Firebase Firestore** como estudo de caso. Durante o encontro, os alunos aprenderam sobre controle de versão, fluxo de trabalho com Git, criação e gerenciamento de repositórios, commits, branches, merge, resolução de conflitos e publicação de projetos no GitHub, aproximando-os das práticas adotadas no mercado de desenvolvimento de software.
 
 ---
 
 ## 🎯 Objetivos de aprendizagem
 
-Ao desenvolver este projeto, são trabalhados os seguintes conhecimentos:
+Ao longo do webinar, os alunos desenvolveram uma aplicação web enquanto aplicavam, na prática, os principais conceitos de **Git** e **GitHub**. Entre os conhecimentos abordados, destacam-se:
 
-* criação de aplicações web com React.js;
-* desenvolvimento de componentes reutilizáveis;
-* utilização de estados para controlar formulários e dados;
-* implementação das operações de cadastro, consulta, edição e exclusão;
-* integração de uma aplicação React com o Firebase;
-* utilização do Firestore como banco de dados NoSQL;
-* estilização de interfaces com Bootstrap;
-* organização básica da estrutura de um projeto front-end.
+### Git e GitHub
+
+- configuração do ambiente de desenvolvimento;
+- inicialização e clonagem de repositórios;
+- controle de versão utilizando Git;
+- criação e gerenciamento de branches;
+- realização de commits seguindo boas práticas;
+- merge e resolução de conflitos;
+- publicação e versionamento de projetos no GitHub.
+
+### Desenvolvimento da aplicação
+
+- criação de aplicações web com React.js;
+- desenvolvimento de componentes reutilizáveis;
+- gerenciamento de estado utilizando React Hooks;
+- implementação das operações de cadastro, consulta, edição e exclusão (CRUD);
+- integração de uma aplicação React com o Firebase Firestore;
+- utilização de banco de dados NoSQL em nuvem;
+- estilização da interface com Bootstrap;
+- organização da estrutura de um projeto front-end.
 
 ---
 
